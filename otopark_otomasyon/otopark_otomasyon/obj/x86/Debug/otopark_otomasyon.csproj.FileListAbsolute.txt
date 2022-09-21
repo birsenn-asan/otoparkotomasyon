@@ -1,0 +1,25 @@
+C:\Users\Löl\AppData\Local\Temporary Projects\otopark_otomasyon\obj\x86\Debug\otopark_otomasyon.Form1.resources
+C:\Users\Löl\AppData\Local\Temporary Projects\otopark_otomasyon\obj\x86\Debug\otopark_otomasyon.Properties.Resources.resources
+C:\Users\Löl\AppData\Local\Temporary Projects\otopark_otomasyon\obj\x86\Debug\otopark_otomasyon.csproj.GenerateResource.Cache
+C:\Users\Löl\AppData\Local\Temporary Projects\otopark_otomasyon\bin\Debug\otopark_otomasyon.exe
+C:\Users\Löl\AppData\Local\Temporary Projects\otopark_otomasyon\bin\Debug\otopark_otomasyon.pdb
+C:\Users\Löl\AppData\Local\Temporary Projects\otopark_otomasyon\obj\x86\Debug\otopark_otomasyon.exe
+C:\Users\Löl\AppData\Local\Temporary Projects\otopark_otomasyon\obj\x86\Debug\otopark_otomasyon.pdb
+C:\Users\Löl\documents\visual studio 2010\Projects\otopark_otomasyon\otopark_otomasyon\obj\x86\Debug\otopark_otomasyon.exe
+C:\Users\Löl\documents\visual studio 2010\Projects\otopark_otomasyon\otopark_otomasyon\obj\x86\Debug\otopark_otomasyon.pdb
+C:\Users\Löl\Documents\Visual Studio 2010\Projects\otopark_otomasyon\otopark_otomasyon\bin\Debug\otopark_otomasyon.exe
+C:\Users\Löl\Documents\Visual Studio 2010\Projects\otopark_otomasyon\otopark_otomasyon\bin\Debug\otopark_otomasyon.pdb
+C:\Users\Löl\Documents\Visual Studio 2010\Projects\otopark_otomasyon\otopark_otomasyon\obj\x86\Debug\otopark_otomasyon.Form1.resources
+C:\Users\Löl\Documents\Visual Studio 2010\Projects\otopark_otomasyon\otopark_otomasyon\obj\x86\Debug\otopark_otomasyon.Frm2.resources
+C:\Users\Löl\Documents\Visual Studio 2010\Projects\otopark_otomasyon\otopark_otomasyon\obj\x86\Debug\otopark_otomasyon.Properties.Resources.resources
+C:\Users\Löl\Documents\Visual Studio 2010\Projects\otopark_otomasyon\otopark_otomasyon\obj\x86\Debug\otopark_otomasyon.csproj.GenerateResource.Cache
+C:\Users\Löl\documents\visual studio 2010\Projects\otopark_otomasyon\otopark_otomasyon\obj\x86\Debug\otopark_otomasyon.csprojResolveAssemblyReference.cache
+G:\Otomasyon Projeleri\c#\Otopark\otopark_otomasyon\otopark_otomasyon\bin\Debug\otopark_otomasyon.exe
+G:\Otomasyon Projeleri\c#\Otopark\otopark_otomasyon\otopark_otomasyon\obj\x86\Debug\otopark_otomasyon.csprojResolveAssemblyReference.cache
+G:\Otomasyon Projeleri\c#\Otopark\otopark_otomasyon\otopark_otomasyon\obj\x86\Debug\otopark_otomasyon.Form1.resources
+G:\Otomasyon Projeleri\c#\Otopark\otopark_otomasyon\otopark_otomasyon\obj\x86\Debug\otopark_otomasyon.Frm2.resources
+G:\Otomasyon Projeleri\c#\Otopark\otopark_otomasyon\otopark_otomasyon\obj\x86\Debug\otopark_otomasyon.Properties.Resources.resources
+G:\Otomasyon Projeleri\c#\Otopark\otopark_otomasyon\otopark_otomasyon\obj\x86\Debug\otopark_otomasyon.csproj.GenerateResource.Cache
+G:\Otomasyon Projeleri\c#\Otopark\otopark_otomasyon\otopark_otomasyon\obj\x86\Debug\otopark_otomasyon.exe
+G:\Otomasyon Projeleri\c#\Otopark\otopark_otomasyon\otopark_otomasyon\obj\x86\Debug\otopark_otomasyon.pdb
+G:\Otomasyon Projeleri\c#\Otopark\otopark_otomasyon\otopark_otomasyon\bin\Debug\otopark_otomasyon.pdb
